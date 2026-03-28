@@ -27,3 +27,16 @@ Credential URL: https://www.life-global.org/certificate/d3c423ef-edc0-4d6a-b298-
 
 
 Credential URL: https://www.life-global.org/certificate/66c19560-cb29-4aed-8328-927e1f74e5e9
+
+
+
+### Intoroduction to Cybersecurity Awareness ###
+
+
+![Image](https://github.com/user-attachments/assets/7c18b399-84cc-432a-a2a7-423f77355663)
+
+
+Credential URL: https://www.life-global.org/certificate/9ba2f98a-362a-454a-b2db-57ee616efd38
+
+
+
