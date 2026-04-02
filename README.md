@@ -67,15 +67,6 @@
 
 
 
-## HP LIFE Ambassador badge by HP LIFE ##
-
-
-<img width="240" height="296" alt="Image" src="https://github.com/user-attachments/assets/ae3157bd-0151-41e2-9370-6618f653edd9" />
-
-
-
-### [Check out its credential](https://www.life-global.org/en/badges/ea2d551b-d1a2-4f94-aae4-7b03c982d84a)
-
 
 ## Agile Project Management by HP LIFE ##
 
@@ -85,4 +76,25 @@
 
 
 
-### [Check out its credential](https://www.life-global.org/certificate/0166cabf-709a-4d54-84dc-706de2ae1d51)
+## AI for Business Professionals by HP LIFE ##
+
+
+
+![Image](https://github.com/user-attachments/assets/588c654c-b55d-47b1-a93f-0f112a722b53)
+
+
+
+### [Check out its credential](https://www.life-global.org/certificate/505ae81e-6a45-4141-9c85-6ad59452de57)
+
+
+
+
+## Customer Experience (CX) for Business Success by HP LIFE ##
+
+
+
+![Image](https://github.com/user-attachments/assets/1cc273ca-30cf-4629-8a00-7e6c79b5bf72)
+
+
+
+### [Check out its credential](https://www.life-global.org/certificate/78df7ec5-1207-45ca-9f65-dbe9395b1654)
